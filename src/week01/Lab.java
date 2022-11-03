@@ -55,7 +55,10 @@ public class Lab {
 		
 		//print to console a line that introduces person
 		System.out.println("Hello, " + fullName);
-
+		
+		System.out.println(5 /2);
+		System.out.println(5%2);
+		System.out.println((15 /7));
 	}
 
 }
