@@ -83,12 +83,12 @@ String firstName = "Kristina";
 		}
 		
 		//boolean expression
-		System.out.println(2 == 2);//true
+		//System.out.println(2 == 2);//true
 		System.out.println(5 < 10);//true
 		System.out.println(2 > 3);//false
-		System.out.println(true == true);//true
+		//System.out.println(true == true);//true
 		System.out.println(true == false);//false
-		System.out.println(true || false);//true
+		//System.out.println(true || false);//true
 		System.out.println(true && false);//false
 		
 		//loops
