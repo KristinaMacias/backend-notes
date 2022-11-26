@@ -23,12 +23,14 @@ public class MoreMethods {
 		return sum;
 	}
 	public static double averageArray(int[]  numbers) {
+		//public static double means that the return value data type should be double. 
+		//it takes int as a parameter because the original array is of int data type
 		double sum = 0;
 		for (int number : numbers) {
 			sum+= number;
 		}
 		
 		return sum / numbers.length;
-	}
+	} 
 
 }
